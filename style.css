@@ -1,0 +1,21 @@
+body {
+  background-color: #e3e3e3;
+  font-family: sans-serif;
+}
+
+.wrap {
+  width: 600px;
+  margin: 0 auto;
+}
+
+div {
+  margin: auto;
+  font-family: helvetica, Arial, sans-serif;
+}
+
+blockquote {
+  border: white 1px;
+  border-style: solid;
+  text-align: center;
+  margin-left: 0;
+}
